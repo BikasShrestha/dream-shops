@@ -1,7 +1,7 @@
-package com.dailycodework.dreamshops.Service.Product;
+package com.dailycodework.dreamshops.service.product;
 
-import com.dailycodework.dreamshops.Repository.CategoryRepository;
-import com.dailycodework.dreamshops.Repository.ProductRepository;
+import com.dailycodework.dreamshops.repository.CategoryRepository;
+import com.dailycodework.dreamshops.repository.ProductRepository;
 import com.dailycodework.dreamshops.exceptions.ProductNotFoundException;
 import com.dailycodework.dreamshops.model.Category;
 import com.dailycodework.dreamshops.model.Product;

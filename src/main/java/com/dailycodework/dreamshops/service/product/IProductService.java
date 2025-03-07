@@ -1,6 +1,5 @@
-package com.dailycodework.dreamshops.Service.Product;
+package com.dailycodework.dreamshops.service.product;
 
-import com.dailycodework.dreamshops.model.Category;
 import com.dailycodework.dreamshops.model.Product;
 import com.dailycodework.dreamshops.request.AddProductRequest;
 import com.dailycodework.dreamshops.request.ProductUpdateRequest;
